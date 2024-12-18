@@ -1,0 +1,5 @@
+~~~~ Stores hash- files
+
+
+hash = log
+just fancy wise
